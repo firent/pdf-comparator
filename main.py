@@ -130,9 +130,7 @@ class PDFComparator(QMainWindow):
     def show_about(self):
         text = """
         <b>PDF Comparator 3.0</b><br><br>
-        Автор: Иван Пожидаев, 2025 г.<br>
-        Email: ivan@ivanpozhidaev.ru<br>
-        GitHub: <a href="https://github.com/firent/PDFComparator">https://github.com/firent/PDFComparator</a><br>
+        Автор: Иван Пожидаев, 2025 г.<br><br>
         Лицензия: MIT<br><br>
         Программа для сравнения текстового содержимого PDF-файлов.
         """
@@ -142,6 +140,7 @@ class PDFComparator(QMainWindow):
         license_text = """
         Лицензия MIT<br><br>
         Copyright (c) 2025 Иван Пожидаев<br><br>
+        GitHub: <a href="https://github.com/firent/PDFComparator">https://github.com/firent/PDFComparator</a><br><br>
         Разрешается свободное использование, копирование, модификация и распространение. 
         Программа распространяется "как есть", без каких-либо гарантий.
         Подробнее в файле LICENSE.
