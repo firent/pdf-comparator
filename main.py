@@ -140,7 +140,7 @@ class PDFComparator(QMainWindow):
         license_text = """
         Лицензия MIT<br><br>
         Copyright (c) 2025 Иван Пожидаев<br><br>
-        GitHub: <a href="https://github.com/firent/PDFComparator">https://github.com/firent/PDFComparator</a><br><br>
+        GitHub: <a href="https://github.com/firent/pdf-comparator">https://github.com/firent/pdf-comparator</a><br><br>
         Разрешается свободное использование, копирование, модификация и распространение. 
         Программа распространяется "как есть", без каких-либо гарантий.
         Подробнее в файле LICENSE.
