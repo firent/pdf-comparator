@@ -131,7 +131,6 @@ class PDFComparator(QMainWindow):
         text = """
         <b>PDF Comparator 3.0</b><br><br>
         Автор: Иван Пожидаев, 2025 г.<br><br>
-        Лицензия: MIT<br><br>
         Программа для сравнения текстового содержимого PDF-файлов.
         """
         QMessageBox.about(self, "О программе", text)
